@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Poppins:ital,wght@0,400;0,600;1,400&family=Roboto:ital,wght@1,300&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --black-color: #3E3E3E;
+}
+
+p {
+    font-weight: 500;
+}
+
+.pre-icon {
+    width: 3.125rem;
+    height: 3.125rem;
+}
+
+.next-icon {
+    width: 3.125rem;
+    height: 3.125rem;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 3.125rem;
+}
+
+.fa-check {
+    display: block;
+    font-size: 12px;
+    background-color: #EDEBF8;
+    padding: 3px;
+    border-radius: 50%;
+    color: #5C4EC5;
+}
